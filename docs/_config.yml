@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: GitHub for monday dev
-description: PR & CI visibility in monday dev
+description: PR & CI visibility in monday dev — link PRs, surface checks, and automate status changes.
+show_downloads: false
