@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/96165428,?v=4" width="90" align="right" style="border-radius:50%">
+<img src="https://avatars.githubusercontent.com/u/96165428?v=4" width="90" align="right" style="border-radius:50%">
 # GitHub for monday dev — Ship faster with PR & CI visibility
 
 Link pull requests to work items, surface CI checks and review status on boards, and automate status changes—no context switching.
