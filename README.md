@@ -3,7 +3,7 @@
 Link pull requests to work items, surface CI checks and review status on boards, and automate status changes—no context switching.
 
 - Install now: https://example.com/install/github-monday-dev
-- Read docs: https://github.com/your-org/github-monday-dev#readme
+- Read docs: https://github.com/stefantab/github-monday-dev#readme
 
 ## Highlights
 - Auto‑link PRs and commits to monday items
