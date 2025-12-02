@@ -4,7 +4,7 @@
 
 Link pull requests to work items, surface CI checks and review status on boards, and automate status changes—no context switching.
 
-- Install now: https://example.com/install/github-monday-dev
+- Install now: https://github.com/apps/monday-dev-integration/installations/new
 - Read docs: https://github.com/stefantab/github-monday-dev#readme
 
 ## Highlights
